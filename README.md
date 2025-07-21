@@ -5,9 +5,9 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=victorvlima)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 🌱 I'm currently learning **at DIO.me**
+- 🌱 I'm currently learning at [**DIO.me**](https://www.dio.me/sign-up?ref=E8125ECB49C74E7E9409FFD2D90C9486)
 
-- 👯 I'm looking to collaborate on [dio-lab-open-source](https://github.com/digitalinnovationone/dio-lab-open-source.git)
+- :mechanical_arm: I'm using [**ADAPTA ONE**](https://go.adapta.org/campaign/ref-central?utm_content=8c7d75c827c2c86d)
 
 ### Connect with me:
 
